@@ -1,6 +1,6 @@
 <template>
-    <div class="text-sm text-green-500">
-        Index
+    <div>
+        <HeaderNavigation />
     </div>
 </template>
 
