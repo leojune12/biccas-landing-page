@@ -3,6 +3,7 @@
         <HeaderNavigation />
         <Hero />
         <CustomerLogos />
+        <SupportPartner />
     </div>
 </template>
 
