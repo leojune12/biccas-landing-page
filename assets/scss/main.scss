@@ -1,3 +1,6 @@
 @import "~/assets/scss/utilities/colors";
+@import "~/assets/scss/utilities/bgColors";
 @import "~/assets/scss/utilities/fonts";
-@import "~/assets/scss/utilities/headerNavigation";
+
+@import "~/assets/scss/components/headerNavigation";
+@import "~/assets/scss/components/hero";

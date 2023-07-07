@@ -1,0 +1,88 @@
+.hero-section {
+
+    .primary-text {
+        color: #191A15;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 700;
+    }
+
+    .secondary-text {
+        color: #000;
+        font-size: 18px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 30px;
+    }
+
+    .free-trial-text {
+        color: #FFF;
+        font-size: 18px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;        
+    }
+
+    .view-demo-text {
+        color: #191A15;
+        font-size: 18px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;        
+    }
+
+    .upper-left-circle {
+        position: absolute;
+        top: -437px;
+        left: -317px;
+
+        width: 634px;
+        height: 634px;
+
+        border-radius: 634px;
+        background: #52BDAA;
+        filter: blur(500px);
+    }
+
+    .upper-right-circle {
+        position: absolute;
+        top: -437px;
+        right: 225px;
+
+        width: 634px;
+        height: 634px;
+
+        border-radius: 634px;
+        background: #FFD6D6;
+        filter: blur(500px);
+    }
+
+    .middle-circle {
+        position: absolute;
+        top: calc(50% - 317px);
+        left: calc(50% - 317px);
+
+        width: 634px;
+        height: 634px;
+
+        border-radius: 634px;
+        background: #FFF;
+        filter: blur(500px);
+    }
+
+    .bottom-right-circle {
+        position: absolute;
+        top: 270px;
+        right: -317px;
+
+        width: 634px;
+        height: 634px;
+
+        border-radius: 634px;
+        background: #54BE96;
+        filter: blur(500px);
+    }
+}
