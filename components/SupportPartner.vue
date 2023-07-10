@@ -2,8 +2,8 @@
     <section class="support-partner-section relative z-50">
         <div class="grid px-6 lg:px-8 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 max-w-screen-xl z-50">
             <div class="mr-auto place-self-center col-span-12 lg:col-span-6 mb-10 lg:mb-0">
-                <h1 class="lg:max-w-2xl mb-7 text-3xl md:text-4xl lg:text-5xl primary-text leading-10">How we support our pratner all over the worlds</h1>
-                <p class="lg:max-w-lg mb-6 lg:mb-16 secondary-text">SaaS become a common delivery model for many business application, including office software, messaging software, payroll processing software, DBMS software, management software</p>
+                <h1 class="lg:max-w-2xl mb-7 text-3xl md:text-4xl lg:text-5xl primary-text leading-10 text-center lg:text-start">How we support our pratner all over the worlds</h1>
+                <p class="lg:max-w-lg mb-6 lg:mb-16 secondary-text text-center lg:text-start">SaaS become a common delivery model for many business application, including office software, messaging software, payroll processing software, DBMS software, management software</p>
                 <div class="flex rating flex-col lg:flex-row text-center lg:text-start">
                     <div class="mr-0 lg:mr-20 mb-6 lg:mb-0">
                         <img src="/images/5-star.png" alt="" class="w-36 mb-4 mx-auto lg:mx-0">
@@ -26,27 +26,27 @@
                 </div>
             </div>
             <div class="lg:mt-0 col-span-12 lg:col-span-6 pl-0 lg:pl-6 features flex flex-col space-y-10">
-                <div class="flex space-x-5">
+                <div class="flex space-y-4 lg:space-y-0 lg:space-x-5 flex-col lg:flex-row items-center lg:items-start text-center lg:text-start">
                     <div class="white-square shrink-0 flex justify-center items-center">
-                        <img src="/images/svg/activity 1.svg" alt="">
+                        <img src="/images/svg/activity-1.svg" alt="">
                     </div>
                     <div>
                         <h3 class="mb-2 title-text text-xl lg:text-2xl">Publishing</h3>
                         <p class="subtitle-text">Plan, collaborate, and publishing your contetn that drivees meaningful engagement and growth for your barnd</p>
                     </div>
                 </div>
-                <div class="flex space-x-5">
+                <div class="flex space-y-4 lg:space-y-0 lg:space-x-5 flex-col lg:flex-row items-center lg:items-start text-center lg:text-start">
                     <div class="white-square shrink-0 flex justify-center items-center">
-                        <img src="/images/svg/activity 1.svg" alt="">
+                        <img src="/images/svg/pie-chart-1.svg" alt="">
                     </div>
                     <div>
                         <h3 class="mb-2 title-text text-xl lg:text-2xl">Analytics</h3>
                         <p class="subtitle-text">Analyze your performance and create goegeous report</p>
                     </div>
                 </div>
-                <div class="flex space-x-5">
+                <div class="flex space-y-4 lg:space-y-0 lg:space-x-5 flex-col lg:flex-row items-center lg:items-start text-center lg:text-start">
                     <div class="white-square shrink-0 flex justify-center items-center">
-                        <img src="/images/svg/activity 1.svg" alt="">
+                        <img src="/images/svg/command-1.svg" alt="">
                     </div>
                     <div>
                         <h3 class="mb-2 title-text text-xl lg:text-2xl">Engagement</h3>
