@@ -37,7 +37,7 @@
                 </ul>
             </div>
             <div class="lg:mt-0 col-span-12 lg:col-span-6 order-1 lg:order-2 flex justify-center">
-                <img src="/images/rectangle-48.png" alt="mockup">
+                <img src="/images/Rectangle-48.png" alt="mockup">
             </div>                
         </div>
     </div>
