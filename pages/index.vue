@@ -4,6 +4,7 @@
         <Hero />
         <CustomerLogos />
         <SupportPartner />
+        <Features />
     </div>
 </template>
 
