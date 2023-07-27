@@ -5,6 +5,7 @@
         <CustomerLogos />
         <SupportPartner />
         <Features />
+        <Benefits />
     </div>
 </template>
 
