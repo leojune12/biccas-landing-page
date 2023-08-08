@@ -6,6 +6,7 @@
         <SupportPartner />
         <Features />
         <Benefits />
+        <Plan />
     </div>
 </template>
 
