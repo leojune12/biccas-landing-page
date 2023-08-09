@@ -1,5 +1,5 @@
 <template>
-    <div class="benefits-section">
+    <div class="plans-section">
         <div class="px-6 lg:px-8 py-8 lg:py-16 max-w-screen-xl mx-auto space-y-10">
             <div class="mx-auto space-y-10">
                 <h1 class="primary-text text-3xl md:text-4xl lg:text-5xl leading-10 text-center">Choose Plan<br> That’s Right For You</h1>
@@ -193,7 +193,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 
-    .benefits-section {
+    .plans-section {
 
         .primary-text {
             color: #191A15;
