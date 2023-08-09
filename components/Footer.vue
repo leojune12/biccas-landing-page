@@ -17,23 +17,31 @@
                     </div>
                 </form>
             </div>
-            <div class="links flex justify-between flex-col md:flex-row gap-y-10">
+            <div class="links flex justify-between flex-col sm:flex-row gap-y-10">
                 <div class="space-y-7">
-                    <div class="title">
+                    <div class="title text-base md:text-lg">
                         Support
                     </div>
-                    <ul class="space-y-7">
+                    <ul class="space-y-5 md:space-y-7">
                         <li>
-                            Help centre
+                            <a href="#" class="text-base md:text-lg">
+                                Help centre
+                            </a>
                         </li>
                         <li>
-                            Account information
+                            <a href="#" class="text-base md:text-lg">
+                                Account information
+                            </a>
                         </li>
                         <li>
-                            About
+                            <a href="#" class="text-base md:text-lg">
+                                About
+                            </a>
                         </li>
                         <li>
-                            Contact us
+                            <a href="#" class="text-base md:text-lg">
+                                Contact us
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -41,18 +49,26 @@
                     <div class="title">
                         Help and Solution
                     </div>
-                    <ul class="space-y-7">
+                    <ul class="space-y-5 md:space-y-7">
                         <li>
-                            Talk to support
+                            <a href="#" class="text-base md:text-lg">
+                                Talk to support
+                            </a>
                         </li>
                         <li>
-                            Support docs
+                            <a href="#" class="text-base md:text-lg">
+                                Support docs
+                            </a>
                         </li>
                         <li>
-                            System status
+                            <a href="#" class="text-base md:text-lg">
+                                System status
+                            </a>
                         </li>
                         <li>
-                            Covid responde
+                            <a href="#" class="text-base md:text-lg">
+                                Covid respond
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -60,18 +76,26 @@
                     <div class="title">
                         Product
                     </div>
-                    <ul class="space-y-7">
+                    <ul class="space-y-5 md:space-y-7">
                         <li>
-                            Update
+                            <a href="#" class="text-base md:text-lg">
+                                Update
+                            </a>
                         </li>
                         <li>
-                            Security
+                            <a href="#" class="text-base md:text-lg">
+                                Security
+                            </a>
                         </li>
                         <li>
-                            Beta test
+                            <a href="#" class="text-base md:text-lg">
+                                Beta test
+                            </a>
                         </li>
                         <li>
-                            Pricing product
+                            <a href="#" class="text-base md:text-lg">
+                                Pricing product
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -150,7 +174,7 @@ export default {
             .title {
                 color: #FFF;
                 font-family: Inter;
-                font-size: 18px;
+                // font-size: 18px;
                 font-style: normal;
                 font-weight: 500;
                 line-height: normal;
@@ -171,7 +195,7 @@ export default {
         .copyright-section {
             color: #FFF;
             font-family: Inter;
-            font-size: 18px;
+            // font-size: 18px;
             font-style: normal;
             font-weight: 500;
             line-height: 30px; /* 166.667% */
