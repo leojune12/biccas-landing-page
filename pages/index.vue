@@ -8,6 +8,7 @@
         <Benefits />
         <Plan />
         <ContactUs />
+        <Footer />
     </div>
 </template>
 
