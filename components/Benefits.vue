@@ -2,7 +2,7 @@
     <div class="benefits-section">
         <div class="px-6 lg:px-8 py-8 lg:py-16 max-w-screen-xl mx-auto grid gap-8 lg:gap-0 lg:grid-cols-2">
             <div class="order-2 lg:order-1 space-y-8 lg:space-y-12">
-                <h1 class="primary-text text-3xl md:text-4xl lg:text-5xl leading-10 text-center lg:text-start lg:max-w-md">What Benifit Will You Get</h1>
+                <h1 class="primary-text text-3xl md:text-4xl lg:text-5xl leading-10 text-center lg:text-start lg:max-w-md">What Benefit Will You Get</h1>
                 <ul class="space-y-8 benefits-items">
                     <li class="flex items-center space-x-5">
                         <img src="/images/check.png" alt="">
