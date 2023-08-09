@@ -7,6 +7,7 @@
         <Features />
         <Benefits />
         <Plan />
+        <ContactUs />
     </div>
 </template>
 
